@@ -15,7 +15,7 @@ export const Route = createFileRoute("/")({
       { title: "ServiceHub — Book trusted local professionals" },
       { name: "description", content: "Discover, book and review local service providers across home, wellness, beauty, education, IT, events and more." },
       { property: "og:title", content: "ServiceHub — Book trusted local professionals" },
-      { property: "og:description", content: "A warm, modern marketplace to book vetted pros in your city." },
+      { property: "og:description", content: "Discover, book and review local service providers across home, wellness, beauty, education, IT, events and more." },
       { property: "og:type", content: "website" },
       { name: "twitter:card", content: "summary_large_image" },
     ],
